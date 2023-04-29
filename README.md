@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeveloperguru.in%2F&psig=AOvVaw1cc_ngR-I4toUYzGj81BSL&ust=1682875436918000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOD6g9fNz_4CFQAAAAAdAAAAABAE)](https://rishavchanda.io)
+[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Naresh Chandragiri</h1>
 <h3 align="center">A passionate frontend developer from India, I will always try to give my best as much as i can.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3YLtY7wQjIVDR9KKU0f1Sk&ust=1682875165143000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiz1tXMz_4CFQAAAAAdAAAAABAE"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshpittu769&label=Profile%20views&color=0e75b6&style=flat" alt="nareshpittu769" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nareshpittu7699" target="blank"><img src="https://img.shields.io/twitter/follow/nareshpittu7699?logo=twitter&style=for-the-badge" alt="nareshpittu7699" /></a> </p>
