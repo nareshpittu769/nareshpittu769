@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@nareshpittu769](https://hashnode.com/@nareshpittu769)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind, React**
+- 💬 Ask me about **Front-End Technologies, React, Python**
 
 - 📫 How to reach me **nareshpittu769@gmail.com**
 
